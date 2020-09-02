@@ -1,5 +1,5 @@
 # FRAMELY
-![LOGO FRAMELY](./public/logo.jpg)
+![LOGO FRAMELY](https://github.com/GuillaumeSarfati/framely/blob/master/public/logo.jpg?raw=true)
 
 # THE IDEA
 I am a javascript developer, (Next.js, Gatsby, GraphQL, Prisma, Loopback) But sometimes loosing time on fancy technologies is my first mistake. As a developer I love to bootstrap few side projects by year, sometimes its for my own knowledges, sometimes its for making money, but sincerely, I am tired to develop the same things all the time. Let's help each other and develop a django style framework for Node.
