@@ -1,8 +1,11 @@
 {
   "name": "@framely/core",
   "version": "0.0.2",
-  "description": "Framely is the most easiest node framework used to begin with Node.js",
+  "description": "Framely description",
   "main": "server.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +16,6 @@
     "loopback-datasource-juggler": "3.33.1"
   },
   "author": "GuillaumeSarfati",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "da48266722fc7ac2a0f5fb64863c1194c17277a1"
 }
