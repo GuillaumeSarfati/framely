@@ -1,3 +1,3 @@
 global.framely = {
-    routers: {}
-}
+  routers: {},
+};

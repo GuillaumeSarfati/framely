@@ -1,4 +1,3 @@
-const express = require('express');
+const express = require("express");
 
-module.exports = express.static
-
+module.exports = express.static;
