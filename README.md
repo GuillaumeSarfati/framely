@@ -17,33 +17,34 @@ Get things done faster! Build reusable apps, and bootstrap projects in hours not
 NAME | STATUS
 ---- | ----
 @framely/core | done
-@framely/auth | in progress
+@framely/cli | in progress
+@framely/auth | to do
 
 # APPS
 
 NAME | STATUS
 ---- | ----
+Admin | to do
+Landing | to do
 Blog | to do
-Marketplace | to do
-Social Network | to do
-Job Board | to do
 Status | to do
 Chat | to do
+Payment | to do
+
 
 # TUTORIALS
 
 NAME | STATUS
 ---- | ----
+Landing | to do
 Blog | to do
 Marketplace | to do
 Social Network | to do
 Job Board | to do
-Status | to do
-Chat | to do
 
 
-# GETTING STARTED
-TO DO
+<!-- # GETTING STARTED
+TO DO -->
 
 # NEXT STEPS
 
