@@ -3,6 +3,9 @@
   "version": "0.0.6",
   "description": "",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +19,6 @@
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0"
-  }
+  },
+  "gitHead": "2ba5481e4cc42bd1fbb7af815e963c216d615c13"
 }
